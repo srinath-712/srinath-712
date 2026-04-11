@@ -1,6 +1,6 @@
 # Srinath A P
 
-**CSE UnderGraduate **
+CSE UnderGraduate
 
 I build systems that solve real-world problems using
 AI, computer vision, and backend engineering
@@ -42,17 +42,6 @@ React · TypeScript
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=srinath-712&show_icons=true&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinath-712&layout=compact&hide_border=true" height="150"/>
-
-</div>
-
----
 
 ## 📡 Currently Building
 
@@ -70,5 +59,4 @@ React · TypeScript
 
 ## 🔗 Links
 
-GitHub → https://github.com/srinath-712
 LinkedIn → https://www.linkedin.com/in/srinath-a-p/
