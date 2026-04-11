@@ -1,63 +1,32 @@
-<div align="center">
+# Srinath A P
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Srinath%20A%20P&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=forensic%20AI%20%7C%20computer%20vision%20%7C%20systems%20engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+**CSE UnderGraduate **
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+systems+that+don’t+guess;Forensic+AI+Engineer+🔍;Signal+processing+over+hype;Turning+data+into+evidence;Engineering+truth+from+noise" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/srinath-a-p/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/srinath-712)
-
-</div>
+I build systems that solve real-world problems using
+AI, computer vision, and backend engineering
 
 ---
 
-## 🧠 about me
+## 🧠 Focus
 
-```python
-engineer = {
-    "name": "Srinath A P",
-    "role": "Forensic AI Engineer",
-    "focus": [
-        "Document Intelligence",
-        "Tamper Detection",
-        "Signal-Based Machine Learning"
-    ],
-    "location": "Chennai, India 🇮🇳",
-    "belief": "If a system cannot explain itself, it cannot be trusted."
-}
-```
+* Computer Vision
+* AI Systems & Pipelines
+* Document Intelligence
+* Full-Stack Development
 
 ---
 
-## ⚡ what i build
+## ⚡ Current Work
 
-* 🔬 Systems that detect **hidden manipulations in documents**
-* 📊 Feature-driven ML pipelines (FFT, variance, structural signals)
-* 🧠 Explainable AI — not black-box guessing
-* ⚙️ End-to-end systems: data → features → model → output
+### SPECTRE — Document Analysis System
 
----
-
-## 🛡️ flagship project
-
-### SPECTRE — Forensic Document Intelligence
-
-```
-✔ Multi-class tampering detection
-✔ Signal-based anomaly detection
-✔ Region-level forensic insights
-✔ Explainable outputs for real-world use
-```
-
-**Tech:** Python · OpenCV · scikit-learn · FastAPI · React
-
-👉 https://github.com/srinath-712/Spectre
+* Detects document inconsistencies using signal-based features
+* Uses statistical + structural analysis (variance, patterns, etc.)
+* Focused on building explainable and practical AI systems
 
 ---
 
-## ⚙️ tech stack
+## ⚙️ Tech
 
 **Languages**
 C · C++ · Python · JavaScript
@@ -65,38 +34,41 @@ C · C++ · Python · JavaScript
 **AI / ML**
 Computer Vision · OCR · Image Processing · NLP
 
-**Backend / Systems**
-FastAPI · REST APIs · Linux
+**Backend**
+Flask · FastAPI · REST APIs
 
 **Frontend**
-React · TypeScript · Tailwind
+React · TypeScript
 
 ---
 
-## 📊 github stats
+## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srinath-712&show_icons=true&theme=midnight-purple&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srinath-712&show_icons=true&hide_border=true" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinath-712&layout=compact&theme=midnight-purple&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinath-712&layout=compact&hide_border=true" height="150"/>
 
 </div>
 
 ---
 
-## 📡 currently working on
+## 📡 Currently Building
 
-```
-→ Spectre v2 (advanced detection + better UI)
-→ feature-based forensic ML pipelines
-→ real-world deployable AI systems
-```
+* AI-based document analysis systems
+* Feature-driven ML pipelines
+* Scalable web applications
 
 ---
 
-<div align="center">
+## 🧭 Goal
 
-> “Truth is not predicted. It is proven.”
+> To build impactful AI systems that are practical, efficient, and explainable
 
-</div>
+---
+
+## 🔗 Links
+
+GitHub → https://github.com/srinath-712
+LinkedIn → https://www.linkedin.com/in/srinath-a-p/
