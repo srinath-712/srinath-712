@@ -7,10 +7,16 @@
   <img alt="Srinath A P - Cyber Terminal Banner" src="./dark.svg?v=999" width="100%">
 </picture>
 
-<br>
+<br><br>
 
-<!-- CONNECT & SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/srinath-a-p"><img src="https://img.shields.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://instagram.com/srinath_712"><img src="https://img.shields.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;<a href="mailto:srinath.a712@gmail.com"><img src="https://img.shields.com/badge/Email-srinath.a712%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<!-- CONNECT & SOCIAL BADGES (100% RELIABLE BADGEN + SKILLICONS) -->
+<a href="https://www.linkedin.com/in/srinath-a-p" target="_blank"><img src="https://badgen.net/badge/LinkedIn/srinath-a-p/0A66C2?icon=linkedin&scale=1.2" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/srinath_712" target="_blank"><img src="https://badgen.net/badge/Instagram/@srinath_712/E4405F?icon=instagram&scale=1.2" alt="Instagram"></a>&nbsp;&nbsp;
+<a href="mailto:srinath.a712@gmail.com"><img src="https://badgen.net/badge/Email/srinath.a712@gmail.com/D14836?icon=mail&scale=1.2" alt="Email"></a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/srinath-a-p" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail&theme=dark" alt="Social Media Icons" /></a>
 
 </div>
 
@@ -29,30 +35,35 @@ Hello! I'm **SRINATH A P**, a **Full Stack Developer & AI Engineer** based in **
 
 ### 🛠 Tech Stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,react,flutter,nodejs,postgres,aws,vscode,git&theme=dark" alt="Srinath's Tech Stack Icons" />
+</div>
+
+<br>
+
 #### 💻 Languages
-![Python](https://img.shields.com/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.com/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.com/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.com/badge/Java-ED8B00?style=flat-square&logo=openid&logoColor=white)
-![JavaScript](https://img.shields.com/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.com/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.com/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://badgen.net/badge/Python/3.14/blue?icon=python" alt="Python">&nbsp;&nbsp;
+<img src="https://badgen.net/badge/C/GCC/grey" alt="C">&nbsp;&nbsp;
+<img src="https://badgen.net/badge/C++/C++20/blue" alt="C++">&nbsp;&nbsp;
+<img src="https://badgen.net/badge/Java/JDK/orange" alt="Java">&nbsp;&nbsp;
+<img src="https://badgen.net/badge/JavaScript/ES6+/yellow" alt="JavaScript">&nbsp;&nbsp;
+<img src="https://badgen.net/badge/HTML5/CSS3/red" alt="HTML/CSS">
 
 #### 🎨 Frontend Frameworks & Mobile
-![React](https://img.shields.com/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.com/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.com/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+<img src="https://badgen.net/badge/React/v18+/cyan" alt="React">&nbsp;&nbsp;
+<img src="https://badgen.net/badge/Flutter/Mobile/blue" alt="Flutter">&nbsp;&nbsp;
+<img src="https://badgen.net/badge/React%20Native/Cross--Platform/cyan" alt="React Native">
 
 #### ⚙️ Backend & Database
-![Node.js](https://img.shields.com/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.com/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://badgen.net/badge/Node.js/Backend/green" alt="Node.js">&nbsp;&nbsp;
+<img src="https://badgen.net/badge/PostgreSQL/Database/blue" alt="PostgreSQL">
 
 #### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.com/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+<img src="https://badgen.net/badge/AWS/Cloud%20Infra/orange" alt="AWS">
 
 #### 🛠 Tools & Environment
-![VS Code](https://img.shields.com/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.com/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://badgen.net/badge/VS%20Code/IDE/blue" alt="VS Code">&nbsp;&nbsp;
+<img src="https://badgen.net/badge/Git/VCS/red?icon=git" alt="Git">
 
 ---
 
